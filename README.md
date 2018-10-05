@@ -16,4 +16,7 @@ Django webapplication is combination multiple small Django apps. To create new D
 ```bash
 python manage.py startapp first_app
 ```
-
+OR 
+```bash
+django-admin startapp first_app
+```
