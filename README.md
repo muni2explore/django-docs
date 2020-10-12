@@ -22,3 +22,4 @@ django-admin startapp first_app
 ```
 ## Contents
 - [Introduction](https://github.com/muni2explore/django-docs/blob/master/Introduction.md)
+- [Templates](https://github.com/muni2explore/django-docs/blob/master/Template.md)
