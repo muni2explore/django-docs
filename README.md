@@ -20,6 +20,10 @@ OR
 ```bash
 django-admin startapp first_app
 ```
+
 ## Contents
 - [Introduction](https://github.com/muni2explore/django-docs/blob/master/Introduction.md)
+- [Commands](https://github.com/muni2explore/django-docs/blob/master/Commands.md)
+- [Models](https://github.com/muni2explore/django-docs/blob/master/Models.md)
+- [URLs](https://github.com/muni2explore/django-docs/blob/master/Urls.md)
 - [Templates](https://github.com/muni2explore/django-docs/blob/master/Template.md)
