@@ -22,8 +22,9 @@ django-admin startapp first_app
 ```
 
 ## Contents
-- [Introduction](https://github.com/muni2explore/django-docs/blob/master/Introduction.md)
-- [Commands](https://github.com/muni2explore/django-docs/blob/master/Commands.md)
-- [Models](https://github.com/muni2explore/django-docs/blob/master/Models.md)
-- [URLs](https://github.com/muni2explore/django-docs/blob/master/Urls.md)
-- [Templates](https://github.com/muni2explore/django-docs/blob/master/Template.md)
+- [Introduction](./Introduction.md)
+- [Commands](./Commands.md)
+- [Models](./Models.md)
+- [URLs](./Urls.md)
+- [Templates](./Template.md)
+- [MySQL & MariaDB](./mysql.md)
