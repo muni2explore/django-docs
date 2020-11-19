@@ -28,3 +28,4 @@ django-admin startapp first_app
 - [URLs](./Urls.md)
 - [Templates](./Template.md)
 - [MySQL & MariaDB](./mysql.md)
+- [Manage.py Command](./ManagePyCommand.md)

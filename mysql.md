@@ -59,7 +59,9 @@ import os
 }
 ```
 
-
+```
+python manage.py dbshell
+```
 
 
 ## Issues:
