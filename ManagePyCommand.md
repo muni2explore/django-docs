@@ -51,3 +51,8 @@ Available subcommands:
 ```
 python manage.py help <subcommand>
 ```
+
+```
+# undo all migration in cms app
+python manage.py migrate cms zero
+```

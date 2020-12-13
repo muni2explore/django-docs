@@ -29,3 +29,9 @@ django-admin startapp first_app
 - [Templates](./Template.md)
 - [MySQL & MariaDB](./mysql.md)
 - [Manage.py Command](./ManagePyCommand.md)
+
+
+
+## References
+- [Django Tutorial in Visual Studio Code
+](https://code.visualstudio.com/docs/python/tutorial-django)
